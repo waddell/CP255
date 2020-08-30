@@ -5,7 +5,7 @@ Department of City and Regional Planning
 
 Professor: Paul Waddell
 
-GSI: Arezoo Besharati Zadeh
+GSI: Irene Farah Rivadeneyra
 
 This is a hands-on course that trains students to analyze urban data, develop indicators, and create visualizations and maps using the Python programming language, open source tools, and public data.  The course will first introduce the fundamentals of programming in Python before moving on to a survey of data analysis/visualization tools and technologies.  Classroom sessions will include lectures and workshops.  A series of exercises will reinforce the skills and topics being presented, and a final project will provide an opportunity for students to develop a more complete project from harvesting data from Open Data portals to synthesizing and analyzing those data to explore a question or problem, to communicating their results in a web map and blog, as well as a final presentation.
 
